@@ -1,1 +1,1 @@
-"# Computer-Vision-with-Python-and-Open-CV Udeny Jse Portilla" 
+"# Computer-Vision-with-python-and-Open-CV" 
