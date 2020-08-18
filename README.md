@@ -1,8 +1,8 @@
 # Computer-Vision-with-python-and-Open-CV
 
 ---------------------------------------------------------------------
-*** This Repository is inspired from JOSE PORTILLA's OpenCV course on UDEMY. This project work is simply for studying and learning purposes and do not promote any of personal interests.
-*** The whole copyright of this work goes to JOSE PORTILLA
+### This Repository is inspired from JOSE PORTILLA's OpenCV course on UDEMY. This project work is simply for studying and learning purposes and do not promote any of personal interests.
+### The whole copyright of this work goes to JOSE PORTILLA
 ---------------------------------------------------------------------
 
 ## Image Processing with OpenCV 
